@@ -158,9 +158,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Acknowledgments
 
 These are list of resources that we find helpful and would like to give credit to.
-* [dribbble](https://dribbble.com)
+
 * [Img Shields](https://shields.io)
-* [Font Awesome](https://fontawesome.com)
+
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
