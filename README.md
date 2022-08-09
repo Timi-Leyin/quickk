@@ -11,18 +11,19 @@
 <br />
 <div align="center">
   <a href="https://github.com/bossoncode/quickk/">
-    <img src="./src/logo.svg" alt="Logo" width="80" height="80">
+    <img src="./favicon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Quickk</h3>
 
   <p align="center">
-    Project Description
+    Open-source blogging platform 
+Create micro blog in 2 minutes
     <br />
-    <a href="https://github.com/bossoncode/quickk"><strong>View on Github »</strong></a>
+    <a href="#"><strong> Read article »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/bossoncode/quickk">View Demo</a>
+    <a href="https://quickk.blog">View Demo</a>
     ·
     <a href="https://github.com/bossoncode/quickk/issues">Report Bug</a>
     ·
